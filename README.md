@@ -44,11 +44,10 @@ To facilitate the loss value analysis, later on, every batch loss values are sto
 
 # Training
 
-The network training was done for 1, 5, 10, 20 and 40 epochs.
+The network training was done for 5, 10, 20 and 40 epochs.
 
 The last epoch loss were:
 
-- 1 Epoch: 0.763117
 - 5 Epochs: 0.265597
 - 10 Epochs: 0.159250
 - 20 Epochs: 0.087260
@@ -58,14 +57,6 @@ The last epoch loss were:
 
 The semantic segmentation improves when the epochs increase.
 
-## 1 Epoch
-
-![um_000005](runs/epochs_1/1542546278.5142028/um_000005.png)
-![um_000040](runs/epochs_1/1542546278.5142028/um_000040.png)
-![umm_000010](runs/epochs_1/11542546278.5142028/umm_000010.png)
-![umm_000040](runs/epochs_1/11542546278.5142028/umm_000040.png)
-![uu_000025](runs/epochs_1/1542546278.5142028/uu_000025.png)
-![uu_000045](runs/epochs_1/11542546278.5142028/uu_000045.png)
 
 ## 5 Epochs
 
