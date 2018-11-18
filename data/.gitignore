@@ -1,5 +1,9 @@
 data_road/
 vgg/
 gtFine_trainvaltest/
-
+epochs_1
+epochs_5
+epochs_10
+epochs_20
+epochs_40
 vgg16.npy
