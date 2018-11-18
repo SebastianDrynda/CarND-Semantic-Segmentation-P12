@@ -44,52 +44,62 @@ To facilitate the loss value analysis, later on, every batch loss values are sto
 
 # Training
 
-The network training was done for 5, 10, 20 and 40 epochs.
+The network training was done for 1, 5, 10, 20 and 40 epochs.
 
 The last epoch loss were:
 
+- 1 Epoch: 0.763117
 - 5 Epochs: 0.265597
 - 10 Epochs: 0.159250
-- 20 Epochs: 0.049151
-- 40 Epochs: ????????? (TODO)
+- 20 Epochs: 0.087260
+- 40 Epochs: 0.046232
 
 # Sample images
 
 The semantic segmentation improves when the epochs increase.
 
+## 1 Epoch
+
+![um_000005](runs/epochs_1/1542546278.5142028/um_000005.png)
+![um_000040](runs/epochs_1/1542546278.5142028/um_000040.png)
+![umm_000010](runs/epochs_1/11542546278.5142028/umm_000010.png)
+![umm_000040](runs/epochs_1/11542546278.5142028/umm_000040.png)
+![uu_000025](runs/epochs_1/1542546278.5142028/uu_000025.png)
+![uu_000045](runs/epochs_1/11542546278.5142028/uu_000045.png)
+
 ## 5 Epochs
 
-![um_000005](runs/epochs_5/um_000005.png)
-![um_000040](runs/epochs_5/um_000040.png)
-![umm_000010](runs/epochs_5/umm_000010.png)
-![umm_000040](runs/epochs_5/umm_000040.png)
-![uu_000025](runs/epochs_5/uu_000025.png)
-![uu_000045](runs/epochs_5/uu_000045.png)
+![um_000005](runs/epochs_5/1542546967.3103185/um_000005.png)
+![um_000040](runs/epochs_5/1542546967.3103185/um_000040.png)
+![umm_000010](runs/epochs_5/1542546967.3103185/umm_000010.png)
+![umm_000040](runs/epochs_5/1542546967.3103185/umm_000040.png)
+![uu_000025](runs/epochs_5/1542546967.3103185/uu_000025.png)
+![uu_000045](runs/epochs_5/1542546967.3103185/uu_000045.png)
 
 ## 10 Epochs
 
-![um_000005](runs/epochs_10/um_000005.png)
-![um_000040](runs/epochs_10/um_000040.png)
-![umm_000010](runs/epochs_10/umm_000010.png)
-![umm_000040](runs/epochs_10/umm_000040.png)
-![uu_000025](runs/epochs_10/uu_000025.png)
-![uu_000045](runs/epochs_10/uu_000045.png)
+![um_000005](runs/epochs_10/1542547989.2298753/um_000005.png)
+![um_000040](runs/epochs_10/1542547989.2298753/um_000040.png)
+![umm_000010](runs/epochs_10/1542547989.2298753/umm_000010.png)
+![umm_000040](runs/epochs_10/1542547989.2298753/umm_000040.png)
+![uu_000025](runs/epochs_10/1542547989.2298753/uu_000025.png)
+![uu_000045](runs/epochs_10/1542547989.2298753/uu_000045.png)
 
 ## 20 Epochs
 
-![um_000005](runs/epochs_20/um_000005.png)
-![um_000040](runs/epochs_20/um_000040.png)
-![umm_000010](runs/epochs_20/umm_000010.png)
-![umm_000040](runs/epochs_20/umm_000040.png)
-![uu_000025](runs/epochs_20/uu_000025.png)
-![uu_000045](runs/epochs_20/uu_000045.png)
+![um_000005](runs/epochs_20/1542549928.3546426/um_000005.png)
+![um_000040](runs/epochs_20/1542549928.3546426/um_000040.png)
+![umm_000010](runs/epochs_20/1542549928.3546426/umm_000010.png)
+![umm_000040](runs/epochs_20/1542549928.3546426/umm_000040.png)
+![uu_000025](runs/epochs_20/1542549928.3546426/uu_000025.png)
+![uu_000045](runs/epochs_20/1542549928.3546426/uu_000045.png)
 
 ## 40 Epochs
 
-![um_000005](runs/epochs_40/um_000005.png)
-![um_000040](runs/epochs_40/um_000040.png)
-![umm_000010](runs/epochs_40/umm_000010.png)
-![umm_000040](runs/epochs_40/umm_000040.png)
-![uu_000025](runs/epochs_40/uu_000025.png)
-![uu_000045](runs/epochs_40/uu_000045.png)
+![um_000005](runs/epochs_40/1542553329.569895/um_000005.png)
+![um_000040](runs/epochs_40/1542553329.569895/um_000040.png)
+![umm_000010](runs/epochs_40/1542553329.569895/umm_000010.png)
+![umm_000040](runs/epochs_40/1542553329.569895/umm_000040.png)
+![uu_000025](runs/epochs_40/1542553329.569895/uu_000025.png)
+![uu_000045](runs/epochs_40/1542553329.569895/uu_000045.png)
 
