@@ -192,7 +192,7 @@ tests.test_train_nn(train_nn)
 
 
 def run():
-    epochs = 20 # 1 5 10 20 40
+    epochs = 40 # 1 5 10 20 40
     
     num_classes = 2
     image_shape = (160, 576)
